@@ -11,6 +11,7 @@ Link to the extension on Chrome's Web Store: https://chrome.google.com/webstore/
 The mini player allows you to control YTM from anywhere in the browser. This includes playback and audio controls, as well as being able to see and select from your queue.
 
 ![Mini Player Screenshot](https://github.com/mkossoris/YTM-Plus/blob/master/screenshots/Control%20YTM%20from%20Anywhere.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkossoris%2FYTM-Plus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkossoris%2FYTM-Plus?ref=badge_shield)
 
 ### Lyrics
 YouTube Music now has built-in lyrics, but they are often pretty limited. YTM+ uses Audd.io's API to fetch additional lyrics that YTM may not natively have and display them in the mini player.
@@ -39,3 +40,6 @@ If you find a bug or have a new feature you'd like to add, please open a GitHub 
 
 ## License
 [MIT](https://github.com/mkossoris/YTM-Plus/blob/master/LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkossoris%2FYTM-Plus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkossoris%2FYTM-Plus?ref=badge_large)
